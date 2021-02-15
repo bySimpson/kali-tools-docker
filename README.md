@@ -1,1 +1,1 @@
-Kali Linux with minimal tools (for GNS3 use).
+Kali Linux with minimal tools (for GNS3).
